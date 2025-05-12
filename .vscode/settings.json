@@ -1,0 +1,8 @@
+{
+     "idf.flashType": "JTAG",
+     "idf.espIdfPathWin": "C:\\Users\\jmolina\\esp\\v5.4\\esp-idf",
+     "idf.toolsPathWin": "C:\\Users\\jmolina\\.espressif",
+     "idf.pythonInstallPath": "C:\\Users\\jmolina\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+     "idf.portWin": "COM5",
+     "idf.monitorPort": "COM5"
+}
